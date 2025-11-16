@@ -3,3 +3,7 @@ langchain-core
 langchain-community
 pypdf
 pymupdf
+sentence-transformers   # For Embedding
+faiss-cpu  #vectorstore
+chromadb # vectorstore
+#onnxruntime==1.17.3
